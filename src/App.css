@@ -3,7 +3,11 @@
 
 #root {
   width: 100vw;
-  height: 100vh;
+  height: 108vh;
+}
+
+div#vizContainer {
+    margin: 0 6rem;
 }
 
 * {
