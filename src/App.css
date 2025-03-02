@@ -1,6 +1,10 @@
 /* for all screens */
 #info {display: none;}
 
+html {
+    background-color: #ffffff;
+}
+
 #root {
   width: 100vw;
   height: 108vh;
