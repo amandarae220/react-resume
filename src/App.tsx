@@ -43,8 +43,6 @@ const App: React.FC = () => {
       <div id="info">
         <p>Rotate screen for optimal viewing</p>
       </div>
-
-      {/* The GanttChart component will run the D3 code on mount */}
       <GanttChart />
     </div>
   );
