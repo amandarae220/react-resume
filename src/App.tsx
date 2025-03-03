@@ -22,7 +22,7 @@ const App: React.FC = () => {
           </div>
           <div id="detailsContainer" className="bottomHalfRight">
             <div id="detailsDiv" className="border">
-              <div id="dynamicTitle" className="titleContainer"><h3>Role/Skill Details</h3></div>
+              <div className="titleContainer"><h3 id="dynamicTitle">Role/Skill Details</h3></div>
               <div id="contentContainer" className="paddingClass">
                 <div>
                   <p id="role"></p>

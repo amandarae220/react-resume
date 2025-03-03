@@ -49,9 +49,9 @@ const GanttChart: React.FC = () => {
         endTime: "7/1/19",
         details: "tableau, mysql",
         description: [
-          "Led wire-framing and exploratory data analysis for new dashboard design initiatives using Tableau and mySQL",
+          "Led wire-framing and exploratory data analysis for new dashboard design initiatives using <strong>Tableau</strong> and <strong>mySQL</strong>",
           "Led multiple re-design efforts to improve utility and user experience for existing dashboards",
-          "Extract data using SQL/Hive to investigate outcomes of various visualization methods and confirm data structure requirements",
+          "Extract data using <strong>SQL/Hive</strong> to investigate outcomes of various visualization methods and confirm data structure requirements",
         ],
       },
       {
@@ -62,9 +62,9 @@ const GanttChart: React.FC = () => {
         endTime: "11/1/18",
         details: "tableau, stata, vba, powershell, mysql",
         description: [
-          "Launched product development efforts to migrate excel based reporting to Tableau & mySQL",
-          "Improved accuracy of forecasting tool from 4% variance to 0.5% through methodology improvements in Stata",
-          "Constructed and implemented statistical models in addition to A/B testing using Stata",
+          "Launched product development efforts to migrate excel based reporting to <strong>Tableau</strong> & <strong>mySQL</strong>",
+          "Improved accuracy of forecasting tool from 4% variance to 0.5% through methodology improvements in <strong>Stata</strong>",
+          "Constructed and implemented statistical models in addition to A/B testing using <strong>Stata</strong>",
         ],
       },
       {
